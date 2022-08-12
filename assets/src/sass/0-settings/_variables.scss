@@ -1,0 +1,21 @@
+// Site variables.
+
+// Default Border Radius
+$border-radius: 3px;
+
+// mq breakpoints.
+$mq-breakpoints: (
+	small: 600px,
+	medium: 768px,
+	large: 1024px,
+	xlarge: 1200px,
+) !default;
+
+$site-width: 95vw;
+$wide-width: 100vw;
+
+$padding-left: 15px;
+$padding-right: 15px;
+
+$margin-top: 60px;
+$margin-bottom: 60px;
